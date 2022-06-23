@@ -12,7 +12,7 @@ Gracias por estar aquí, a continuación pueden encontrar los documentos y archi
 
 
 - [Documento .pdf](https://github.com/diegomps/defensaPublica/blob/main/Proyecto.pdf)
-- [Presentación .pptx](https://raw.githubusercontent.com/diegomps/defensaPublica/main/Presentación.pptx)
+- [Presentación .pptx](https://liveespochedu-my.sharepoint.com/:p:/g/personal/diego_pullugando_espoch_edu_ec/Ef_E6MV7Lv5Ji35U-VCnqOEBEmOwRB7ehlV0ky-OMzgSfw?e=7UBxoK)
 - [Proyecto en PWA](https://banios-accessible.firebaseapp.com/tabs/tab1)
 - [Instalador APK](https://raw.githubusercontent.com/diegomps/defensaPublica/main/bns-accesible.apk)
 - [Código fuente](https://github.com/diegomps/BNS-Accesible)
