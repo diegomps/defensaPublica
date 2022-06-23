@@ -11,7 +11,7 @@ EQUIPO:
 Gracias por estar aquí, a continuación pueden encontrar los documentos y archivos utilizados en este proyecto.
 
 
-- [Documento .docx](https://github.com/diegomps/defensaPublica/blob/main/README.md)
+- [Documento .docx](https://liveespochedu-my.sharepoint.com/:w:/g/personal/diego_pullugando_espoch_edu_ec/EfQVEtbz3t9KtoCfPiOQskcBRqrPkW713SlA2LPLyDPA_w?e=SiQrn2)
 - [Presentación .pptx](https://liveespochedu-my.sharepoint.com/:p:/g/personal/diego_pullugando_espoch_edu_ec/Ef_E6MV7Lv5Ji35U-VCnqOEBEmOwRB7ehlV0ky-OMzgSfw?e=7UBxoK)
 - [Proyecto en PWA](https://banios-accessible.firebaseapp.com/tabs/tab1)
 - [Instalador APK](https://raw.githubusercontent.com/diegomps/defensaPublica/main/bns-accesible.apk)
